@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+heart_disease_data_P3.csv
+X_train_P3.csv
+X_val_P3.csv
+y_train_P3.csv
+y_val_P3.csv 
